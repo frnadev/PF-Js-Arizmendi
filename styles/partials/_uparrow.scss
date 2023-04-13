@@ -1,0 +1,20 @@
+.uparrow {
+    position: absolute;
+    top: 0;
+    right:0;
+    height: 100%;
+  }
+  
+  .uparrow:before {
+    content: '';
+    display: block;
+    height: 100vh;
+    pointer-events: none;
+  }
+  
+  .uparrow a {
+    position: sticky;
+    top: 88vh;
+    cursor: pointer;
+    font-size: 20px;
+  }

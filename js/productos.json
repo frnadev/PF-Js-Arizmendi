@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "titulo": "Camiseta Campeones",
+        "imagen": "../img/camiseta (1).png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 5700
+    },
+    {
+        "id": 2,
+        "titulo": "Camiseta Entrenamiento",
+        "imagen": "../img/camiseta (2).png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4900
+    },
+    {
+        "id": 3,
+        "titulo": "Camiseta Entrenamiento 2",
+        "imagen": "../img/camiseta (3).png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": 4,
+        "titulo": "Camiseta Campeones Titular",
+        "imagen": "../img/camiseta (4).png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 8000
+    },
+    {
+        "id": 5,
+        "titulo": "Campera Azul Oscuro",
+        "imagen": "../img/campera (1).png",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 8200
+    },
+    {
+        "id": 6,
+        "titulo": "Campera Violeta",
+        "imagen": "../img/campera (2).png",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 8200
+    },
+    {
+        "id": 7,
+        "titulo": "Campera Celeste",
+        "imagen": "../img/campera (3).png",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 8200
+    },
+    {
+        "id": 8,
+        "titulo": "Campera Invierno",
+        "imagen": "../img/campera (4).png",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 9500
+    }
+]

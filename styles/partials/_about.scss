@@ -1,0 +1,24 @@
+.aboutus {
+    display: flex;
+    width: 900px;
+    height: 430px;
+    margin-bottom: 40px;
+    & .abt {
+        display: flex;
+        width: 0px;
+        flex-grow: 1;
+        object-fit: cover;
+        opacity: .8;
+        transition: .5s ease;
+      }
+    & .abt:hover {
+        cursor: cell;
+        width: 300px;
+        opacity: 1;
+        filter: contrast(120%);
+    }
+}
+
+.abtu {
+    font-size: 20px;
+}
